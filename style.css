@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+button {
+  outline: none;
+  background-color: coral;
+  color: white;
+  font-size: 38px;
+  padding: 8px;
+  margin: 16px 0;
+  cursor: pointer;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
