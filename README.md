@@ -6,5 +6,5 @@
 
 <br/>
 
-### 📽 실행 영상
+### 🎈 실행 화면
 <img src="/img/rabbits/scroll_rabbits.gif" alt="video" />
